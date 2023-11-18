@@ -1,0 +1,3 @@
+[submodule "mini_source_sdk"]
+	path = mini_source_sdk
+	url = https://github.com/vermon-css/mini_source_sdk
